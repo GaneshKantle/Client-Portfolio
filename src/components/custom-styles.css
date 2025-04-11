@@ -1,0 +1,18 @@
+/* custom-styles.css */
+.whatsapp_widget_wrapper {
+    bottom: 15px !important;
+    right: 85px !important;
+    align-items: flex-end !important;
+    position: fixed; /* Ensure the widget is fixed at the bottom-right */
+  }
+  
+  .whatsapp_widget_icon {
+    background-color: #25D366 !important;
+    width: 48px !important;
+    height: 48px !important;
+  }
+  /* custom-styles.css */
+.whatsapp_widget_header_icon img {
+    border-radius: 50% !important; /* Make the image round */
+  }
+  
